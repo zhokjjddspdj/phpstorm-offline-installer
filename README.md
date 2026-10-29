@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-PHP+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 PhpStorm Free Installer** — PhpStorm is JetBrains' PHP IDE providing deep code analysis, smart refactoring, built-in tools for databases and version control, and integration with frameworks including Laravel, Symfony, and WordPress — offering the most intelligent PHP development experience.. Works without internet access, no account required. Full offline installation.
+**💻 PhpStorm Free Installer** — PhpStorm is JetBrains' PHP IDE with intelligent code completion, refactoring, and debugging for PHP development. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About PhpStorm
 
-PhpStorm is JetBrains' PHP IDE providing deep code analysis, smart refactoring, built-in tools for databases and version control, and integration with frameworks including Laravel, Symfony, and WordPress — offering the most intelligent PHP development experience.
+PhpStorm is JetBrains' PHP IDE with intelligent code completion, refactoring, and debugging for PHP development. Supports all major PHP frameworks including Laravel, Symfony, WordPress, and Drupal. Built-in tools for HTML, CSS, JavaScript, and database management make PhpStorm a complete web development environment for PHP projects of any size.
 
 ---
 
 ## ❌ Problem: PhpStorm is hard to access
 
-- **Paid Subscription** — No free community edition; subscription required
-- **Resource Intensive** — Higher memory usage than lightweight PHP editors
-- **Competition** — VS Code with PHP extensions provides similar features free
-- **Slow on Large Projects** — Initial indexing of large codebases can take significant time
+- **Commercial License** — Requires paid JetBrains subscription
+- **Resource Demands** — Higher resource usage than VS Code with PHP plugins
+- **Startup Time** — Slower startup than lightweight editors
+- **Cost Justification** — Monthly subscription may be difficult to justify for occasional PHP work
 
 ---
 
@@ -121,7 +121,7 @@ PhpStorm is JetBrains' PHP IDE providing deep code analysis, smart refactoring, 
 
 ---
 
-**PhpStorm Free Installer** — PhpStorm is JetBrains' PHP IDE providing deep code analysis, smart refactoring, built-in tools for databases and version control, and integration with frameworks including Laravel, Symfony, and WordPress — offering the most intelligent PHP development experience.. Install without internet connection today!
+**PhpStorm Free Installer** — PhpStorm is JetBrains' PHP IDE with intelligent code completion, refactoring, and debugging for PHP development. Install without internet connection today!
 
 <div align="center">
 
